@@ -7,3 +7,4 @@ yellow
 black
 grey
 brown
+fawn
